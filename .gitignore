@@ -1,0 +1,93 @@
+## Alignments
+*.bam
+*.sam
+*.sam.gz
+
+## Variant call files
+*.vcf
+*.vcf.gz
+*.bcf
+*.maf
+*.maf.gz
+# Plink
+*.bed
+*.bim
+*.fam
+
+## Signals and intervals
+*.bw
+*.bigwig
+*.bed
+*.bed.gz
+*.narrowPeak
+*.narrowpeak
+
+## Plots/images
+*.pdf
+*.png
+*.tiff
+*.svg
+*.jpg
+*.bmp
+
+## Compressed files
+*.gz
+*.zip
+*.bgz
+*.tgz
+*.7z
+
+## R
+# selected from https://github.com/github/gitignore/blob/master/R.gitignore
+# History files
+.Rhistory
+.Rapp.history
+# Session Data files
+.RData
+# User-specific files
+.Ruserdata
+# Example code in package build process
+*-Ex.R
+# Output files from R CMD check
+/*.Rcheck/
+# RStudio files
+.Rproj.user/
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+# R Environment Variables
+.Renviron
+# pkgdown site
+docs/
+# translation temp files
+po/*~
+
+## Python
+# selected from https://github.com/github/gitignore/blob/master/Python.gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+# Jupyter Notebook
+.ipynb_checkpoints
+# IPython
+profile_default/
+ipython_config.py
+
+## Snakemake
+.snakemake
+
+## Other
+.DS_Store
+*.exe
+
+## Misc
+# [Add your files here]
