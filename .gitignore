@@ -1,4 +1,5 @@
 ## Alignments
+*.cram
 *.bam
 *.sam
 *.sam.gz
@@ -85,9 +86,9 @@ ipython_config.py
 ## Snakemake
 .snakemake
 
-## Other
+## Other / OS-specific
 .DS_Store
 *.exe
 
-## Misc
+## Project-specific files to ignore
 # [Add your files here]
