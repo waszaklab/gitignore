@@ -1,42 +1,74 @@
 ## Alignments
 *.cram
+*.CRAM
 *.bam
+*.BAM
 *.sam
+*.SAM
 *.sam.gz
+*.SAM.GZ
 
 ## Variant call files
 *.vcf
+*.VCF
 *.vcf.gz
+*.VCF.GZ
 *.bcf
+*.BCF
 *.maf
+*.MAF
 *.maf.gz
+*.MAF.GZ
 # Plink
 *.bed
+*.BED
 *.bim
+*.BIM
 *.fam
+*.FAM
 
 ## Signals and intervals
 *.bw
+*.BW
 *.bigwig
+*.BigWig
+*.BIGWIG
 *.bed
+*.BED
 *.bed.gz
-*.narrowPeak
+*.BED.GZ
 *.narrowpeak
+*.narrowPeak
+*.NarrowPeak
+*.NARROWPEAK
 
 ## Plots/images
 *.pdf
+*.PDF
 *.png
+*.PNG
 *.tiff
+*.TIFF
 *.svg
+*.SVG
 *.jpg
+*.JPG
+*.jpeg
+*.JPEG
 *.bmp
+*.BMP
 
 ## Compressed files
 *.gz
+*.GZ
 *.zip
+*.ZIP
 *.bgz
+*.BGZ
 *.tgz
+*.TGZ
 *.7z
+*.7Z
 
 ## R
 # selected from https://github.com/github/gitignore/blob/master/R.gitignore
